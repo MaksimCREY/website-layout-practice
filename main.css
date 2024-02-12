@@ -1,0 +1,126 @@
+@import url(reset.css);
+
+body{
+background-color: #000;
+
+}
+
+.main__head{
+    /* header#qodef-page-header */
+position: absolute;
+max-width: 1920px;
+height: 90px;
+left: 0;
+right: 0;
+top: 0;
+bottom: 7029.3px;
+}
+
+.header__nav{
+position: absolute;
+max-width: 1856px;
+height: 90px;
+left: 32px;
+right: 32px;
+top: 0;
+bottom: 0;
+}
+
+.header__buton{
+position: absolute;
+width: 483.88px;
+height: 90px;
+left: 686.06px;
+right: 686.06px;
+top: 0;
+bottom:0;
+}
+.shop__nav{
+    position: absolute;
+width: 36px;
+height: 18px;
+left: 436.13px;
+right: 11.75px;
+top: 36px;
+bottom: 36px;
+display: flex;
+flex-direction: row;
+align-items: center;
+color: rgb(255, 255, 255);
+font-family: Heebo;
+font-size: 12px;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 1.2px;
+text-align: left;
+text-transform: uppercase;
+}
+
+.blog__nav{
+    /* Blog */
+position: absolute;
+width: 34px;
+height: 18px;
+left: 340.08px;
+right: 109.8px;
+top: 36px;
+bottom: 36px;
+display: flex;
+flex-direction: row;
+align-items: center;
+
+color: rgb(255, 255, 255);
+font-family: Heebo;
+font-size: 12px;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 1.2px;
+text-align: left;
+text-transform: uppercase;
+}
+
+.portfolio__nav{
+    /* Portfolio */
+position: absolute;
+width: 74px;
+height: 18px;
+left: 204.06px;
+right: 205.81px;
+top: 36px;
+bottom: 36px;
+display: flex;
+flex-direction: row;
+align-items: center;
+color: rgb(255, 255, 255);
+font-family: Heebo;
+font-size: 12px;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 1.2px;
+text-align: left;
+text-transform: uppercase;
+
+}
+
+.pages__nav{
+    /* Pages */
+position: absolute;
+width: 43px;
+height: 18px;
+left: 99.83px;
+right: 341.05px;
+top: 36px;
+bottom: 36px;
+display: flex;
+flex-direction: row;
+align-items: center;
+
+color: rgb(255, 255, 255);
+font-family: Heebo;
+font-size: 12px;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 1.2px;
+text-align: left;
+text-transform: uppercase;
+}
