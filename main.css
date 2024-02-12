@@ -124,3 +124,65 @@ letter-spacing: 1.2px;
 text-align: left;
 text-transform: uppercase;
 }
+
+.shop__nav__1{
+/* a */
+position: absolute;
+width: 49.83px;
+height: auto;
+left: 0;
+right: 434.05px;
+top: 0;
+bottom: 0;
+/* Автолейаут */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 36px 0px 36px 0px;
+
+
+
+
+}
+.shop__nav{
+    /* Home */
+position: static;
+width: 38px;
+height: 18px;
+/* Автолейаут */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 36px 0px 36px 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 6.828125px;
+color: rgb(255, 255, 255);
+font-family: Heebo;
+font-size: 12px;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 1.2px;
+text-align: left;
+text-transform: uppercase;
+}
+.radius{
+    /* pseudo */
+position: static;
+width: 5px;
+height: 5px;
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 6.828125px;
+border-radius: 5px;
+
+background: rgb(255, 255, 255);
+}
